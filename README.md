@@ -58,7 +58,7 @@ Additionally, I enhanced the project with:
 ## 👨‍💻 Author
 
 **Sudhesi M**  
-Frontend Developer | B.Tech CSE Student  
+Frontend Developer | B.Tech IT Student  
 
 ---
 
